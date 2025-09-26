@@ -1,7 +1,7 @@
 
 
 <div align="center" width="50">
-
+<h1>I am Mohammed Yahsop</h1>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
 
 
@@ -35,23 +35,7 @@
 - ⚡ Fun fact: I love mixing tech with design to make ideas come alive.
 
 
-```<div>
-// tools_I_use organized
 
-class About extends Me { 
-  const myTools = {  
-    "ProgramingLanguages" : { "Python", "JavaScript", "TypeScript", "React" },
-    "OtherLanguages" : { "HTML5", "CSS3" },
-    "Editors" : { "VSCode" },
-    "Platforms" : { "Windows" },
-    "DesignTools" : { "Figma", "Photoshop", "Canva" },
-    "Office" : { "Word", "Excel", "PowerPoint", "Access" },
-    "OtherTools" : { "Git" }
-  };
-}
-
-```
-<div/>
 <hr></hr>
 
 
