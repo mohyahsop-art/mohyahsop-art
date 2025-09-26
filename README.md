@@ -7,43 +7,51 @@
 </div>
 
 <hr></hr>
+## 💻 Skills
 
-![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
-![semicolon](https://img.shields.io/badge/-%3A-orange)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-
-![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
-
-![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
-
-
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black)
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
 
+![Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=flat&logo=microsoft-word&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=flat&logo=microsoft-powerpoint&logoColor=white)
+![Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=flat&logo=microsoft-access&logoColor=white)
+
+
+## 👨‍💻 About Me
+
+- 🔭 I’m currently learning **React & TypeScript**.  
+- 🌱 Interested in **Web Development** and creating interactive UIs.  
+- 🎨 I enjoy working with **Figma, Photoshop, and Canva** to design clean interfaces.  
+- 💬 Ask me about **JavaScript, Python, or front-end stuff**.  
+- 📊 I’m also good with **Word, Excel, PowerPoint, and Access**.  
+- ⚡ Fun fact: I love mixing tech with design to make ideas come alive.
+
+ 
 ```dart
 // tools_I_use organized
 
 class About extends Me { 
   const myTools = {  
-    "ProgramingLanguages" : {  "Python", "Javascript", "Typescript"},
-    "OtherLanguages" : { "HTML", "CSS" },
-    "Editors" : { "Vscode", "Xcode"},
+    "ProgramingLanguages" : { "Python", "JavaScript", "TypeScript", "React" },
+    "OtherLanguages" : { "HTML5", "CSS3" },
+    "Editors" : { "VSCode" },
     "Platforms" : { "Windows" },
-    "OtherTools" : { "Git", "Figma", "Photoshop" }
+    "DesignTools" : { "Figma", "Photoshop", "Canva" },
+    "Office" : { "Word", "Excel", "PowerPoint", "Access" },
+    "OtherTools" : { "Git" }
   };
 }
+
 ```
-
-
-
-<div align="center" >
-<a  href="https://github.com/mohyahsop-art">
-
 
 <hr></hr>
 
