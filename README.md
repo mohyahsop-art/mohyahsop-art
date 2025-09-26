@@ -35,8 +35,8 @@
 - 📊 I’m also good with **Word, Excel, PowerPoint, and Access**.  
 - ⚡ Fun fact: I love mixing tech with design to make ideas come alive.
 
-<div>
-```dart
+
+```<div>
 // tools_I_use organized
 
 class About extends Me { 
@@ -52,8 +52,7 @@ class About extends Me {
 }
 
 ```
-</div>
-
+<div/>
 <hr></hr>
 
 
